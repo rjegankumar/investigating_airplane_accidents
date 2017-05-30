@@ -1,0 +1,4 @@
+Map out accidents using the basemap library for matplotlib.
+Count the number of accidents by air carrier.
+Count the number of accidents by airplane make and model.
+Figure out what percentage of accidents occur under adverse weather conditions.
